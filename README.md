@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0735-asteroid-collision) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |

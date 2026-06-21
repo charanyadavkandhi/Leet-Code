@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0283-move-zeroes) |
 | [0735-asteroid-collision](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0735-asteroid-collision) |
 | [0977-squares-of-a-sorted-array](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2574-left-and-right-sum-differences) |

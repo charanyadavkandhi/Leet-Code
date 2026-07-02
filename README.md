@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0022-generate-parentheses) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

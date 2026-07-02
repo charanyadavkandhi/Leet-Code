@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0169-majority-element](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0283-move-zeroes) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0071-simplify-path](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting Sort
@@ -239,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3620-network-recovery-pathways) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->

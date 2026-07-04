@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0301-remove-invalid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0301-remove-invalid-parentheses) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0301-remove-invalid-parentheses) |
 ## Topological Sort
 |  |
 | ------- |

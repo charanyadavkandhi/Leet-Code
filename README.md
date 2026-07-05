@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0031-next-permutation) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0283-move-zeroes) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0179-largest-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |

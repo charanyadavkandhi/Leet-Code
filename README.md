@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0301-remove-invalid-parentheses) |
+| [0657-robot-return-to-origin](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |

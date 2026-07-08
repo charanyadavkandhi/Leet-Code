@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
 | [1672-richest-customer-wealth](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1672-richest-customer-wealth) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3643-flip-square-submatrix-vertically](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3643-flip-square-submatrix-vertically) |

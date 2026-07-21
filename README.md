@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1512-number-of-good-pairs) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1732-find-the-highest-altitude) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1672-richest-customer-wealth) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |

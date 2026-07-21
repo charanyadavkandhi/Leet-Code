@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0301-remove-invalid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1260-shift-2d-grid) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Design
 |  |
 | ------- |

@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1512-number-of-good-pairs) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1672-richest-customer-wealth) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0179-largest-number) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1833-maximum-ice-cream-bars](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1672-richest-customer-wealth) |

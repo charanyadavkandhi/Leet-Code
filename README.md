@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3620-network-recovery-pathways) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1622-fancy-sequence) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)

@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3620-network-recovery-pathways) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
 |  |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1009-complement-of-base-10-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Linked List
 |  |

@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2751-robot-collisions) |
+| [3536-maximum-product-of-two-digits](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Math
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3700-number-of-zigzag-arrays-ii) |

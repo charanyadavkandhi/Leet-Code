@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Tree
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -385,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->

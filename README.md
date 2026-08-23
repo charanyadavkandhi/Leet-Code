@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1833-maximum-ice-cream-bars](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1927-sum-game](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1927-sum-game](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |

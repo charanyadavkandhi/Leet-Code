@@ -508,4 +508,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2029-stone-game-ix) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->

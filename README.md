@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0071-simplify-path) |
+| [0115-distinct-subsequences](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0301-remove-invalid-parentheses) |

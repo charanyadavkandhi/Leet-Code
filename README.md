@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0067-add-binary) |
 | [0486-predict-the-winner](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -542,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-daily-leads-and-partners](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1729-find-followers-count) |
 | [1965-employees-with-missing-information](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1965-employees-with-missing-information) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

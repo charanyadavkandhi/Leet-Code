@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1470-shuffle-the-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1980-find-unique-binary-string](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Breadth-First Search

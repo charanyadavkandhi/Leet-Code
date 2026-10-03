@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0940-distinct-subsequences-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0940-distinct-subsequences-ii) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0115-distinct-subsequences) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0071-simplify-path) |
 | [0735-asteroid-collision](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0735-asteroid-collision) |
 | [1096-brace-expansion-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1096-brace-expansion-ii) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

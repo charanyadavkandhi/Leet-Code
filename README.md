@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2751-robot-collisions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1622-fancy-sequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -630,4 +633,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->

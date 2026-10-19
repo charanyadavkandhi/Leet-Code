@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2751-robot-collisions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |

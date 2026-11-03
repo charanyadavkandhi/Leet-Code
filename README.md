@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |

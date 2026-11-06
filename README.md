@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2463-minimum-total-distance-traveled) |
 | [2574-left-and-right-sum-differences](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2574-left-and-right-sum-differences) |
+| [2747-count-zero-request-servers](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2751-robot-collisions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2463-minimum-total-distance-traveled) |
+| [2747-count-zero-request-servers](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2751-robot-collisions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1980-find-unique-binary-string](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2747-count-zero-request-servers](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2747-count-zero-request-servers](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Breadth-First Search
 |  |

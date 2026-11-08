@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3310-remove-methods-from-project) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -558,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -567,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2812-find-the-safest-path-in-a-grid) |

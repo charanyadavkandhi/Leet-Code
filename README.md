@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3876-construct-uniform-parity-array-ii) |

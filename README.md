@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2751-robot-collisions) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1622-fancy-sequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2747-count-zero-request-servers](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/charanyadavkandhi/Leet-Code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -741,4 +745,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->

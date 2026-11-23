@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
+| [1352-product-of-the-last-k-numbers](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1386-cinema-seat-allocation) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1512-number-of-good-pairs) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/charanyadavkandhi/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -661,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1352-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1622-fancy-sequence) |
 ## Number Theory
 |  |
@@ -782,4 +786,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/charanyadavkandhi/Leet-Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/charanyadavkandhi/Leet-Code/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
